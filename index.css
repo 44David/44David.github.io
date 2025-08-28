@@ -211,3 +211,12 @@ header nav {
     gap: 15px; 
     flex-wrap: wrap;
 }
+
+button {
+    font-family: inherit;
+}
+
+input {
+    font-family: inherit;
+
+}
